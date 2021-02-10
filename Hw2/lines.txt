@@ -1,0 +1,12 @@
+M1A,Kirazli,Otogar,Topkapi,Aksaray,Yenikapi#
+M1B,Ataturk_Havalimani,Atakoy,Bahcelievler,Zeytinburnu,Otogar#
+MAR,Kazlicesme,Yenikapi,Beyazit,Sirkeci,Uskudar,Marmaray#
+M2,Yenikapi,Beyazit,Tunel,Taksim,Mecidiyekoy,Levent,ITU,Haciosman#
+T1,Bagcilar,Akincilar,Gungoren,Zeytinburnu,Topkapi,Findikzade,Sirkeci,Karakoy,Kabatas#
+M4,Kadikoy,Marmaray,Uzuncayir,Kozyatagi,Maltepe,Huzurevi,Kartal,Pendik#
+M6,Levent,Nispetiye,Etiler,Bogazici#
+34G,Beylikduzu,Guzelyurt,Florya,Atakoy,Bahcelievler,Zeytinburnu,Topkapi,Edirnekapi,Darulaceze,Mecidiyekoy,Sehitler_Koprusu,Uzuncayir#
+F1,Taksim,Kabatas#
+F2,Tunel,Karakoy#
+T2,Tunel,Taksim#
+M3,Basaksehir,Ikitelli,Mahmutbey,Bagcilar#
