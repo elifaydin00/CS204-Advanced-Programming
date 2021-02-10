@@ -1,0 +1,2 @@
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\Debug\Hw1.exe
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\Debug\Hw1.pdb

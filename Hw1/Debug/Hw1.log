@@ -1,0 +1,22 @@
+﻿  try.cpp
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(99,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(110,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(136,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(137,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(150,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(165,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(166,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(167,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(180,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(181,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(182,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(197,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(210,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(211,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(243,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(266,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(289,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(298,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\try.cpp(312,18): warning C4018: '<': signed/unsigned mismatch
+  Hw1.vcxproj -> C:\Users\hp\Documents\Visual Studio 2019\Projects\Hw1\Debug\Hw1.exe
