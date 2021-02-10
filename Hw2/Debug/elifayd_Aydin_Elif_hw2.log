@@ -1,0 +1,17 @@
+﻿  homework2.cpp
+C:\Users\hp\Documents\Visual Studio 2019\Projects\elifayd_Aydin_Elif_hw2\homework2.cpp(654,14): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\hp\Documents\Visual Studio 2019\Projects\elifayd_Aydin_Elif_hw2\homework2.cpp(655,14): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\hp\Documents\Visual Studio 2019\Projects\elifayd_Aydin_Elif_hw2\homework2.cpp(687,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\Documents\Visual Studio 2019\Projects\elifayd_Aydin_Elif_hw2\homework2.cpp(729,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\hp\Documents\Visual Studio 2019\Projects\elifayd_Aydin_Elif_hw2\homework2.cpp(683,6): warning C4101: 'index': unreferenced local variable
+C:\Users\hp\Documents\Visual Studio 2019\Projects\elifayd_Aydin_Elif_hw2\homework2.cpp(750,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\elifayd_Aydin_Elif_hw2\homework2.cpp(755,20): warning C4018: '<': signed/unsigned mismatch
+  elifayd_Aydin_Elif_hw2.vcxproj -> C:\Users\hp\Documents\Visual Studio 2019\Projects\elifayd_Aydin_Elif_hw2\Debug\elifayd_Aydin_Elif_hw2.exe
